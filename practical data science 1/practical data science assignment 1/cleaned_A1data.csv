@@ -1,0 +1,75 @@
+ISO3,Countries and areas,Income Group,Total,Rural (Residence),Urban (Residence),Poorest (Wealth quintile),Richest (Wealth quintile),Time period
+DZA,Algeria,Upper middle income (UM),24%,9.0%,32%,1.0%,77.0%,2018-19
+AGO,Angola,Lower middle income (LM),17%,2.0%,24%,0.0%,62.0%,2015-16
+ARM,Armenia,Upper middle income (UM),81%,71.0%,88%,47.0%,99.0%,2015-16
+BGD,Bangladesh,Lower middle income (LM),37%,33.0%,52%,9.0%,76.0%,2019
+BRB,Barbados,High income (H),66%,61.0%,69%,10.0%,98.0%,2012
+BEN,Benin,Low income (L),4%,1.0%,7%,0.0%,16.0%,2017-18
+BOL,Bolivia,Lower middle income (LM),12%,4.0%,17%,19.0%,61.7%,2016
+BIH,Bosnia and Herzegovina,Upper middle income (UM),59%,51.0%,76%,8.0%,96.0%,2011-12
+BRA,Brazil,Upper middle income (UM),83%,51.0%,89%,84.0%,97.0%,2018
+BGR,Bulgaria,Upper middle income (UM),76%,66.0%,81%,35.0%,97.0%,2013
+BFA,Burkina Faso,Low income (L),1%,1.0%,4%,1.0%,5.0%,2010
+CMR,Cameroon,Lower middle income (LM),5%,0.0%,10%,0.0%,24.0%,2014
+CAF,Central African Republic,Low income (L),4%,1.0%,9%,0.0%,16.0%,2018-19
+TCD,Chad,Low income (L),2%,1.0%,8%,0.0%,9.0%,2019
+CHL,Chile,High income (H),86%,70.0%,89%,73.0%,99.0%,2017
+CHN,China,Upper middle income (UM),57%,50.0%,91%,19.0%,90.0%,2018
+COL,Colombia,Upper middle income (UM),36%,5.0%,48%,1.0%,98.0%,2015-16
+CRI,Costa Rica,Upper middle income (UM),72%,61.0%,78%,46.0%,99.0%,2018
+CIV,Ivory Coast,Lower middle income (LM),3%,1.0%,5%,0.0%,14.0%,2016
+CUB,Cuba,Upper middle income (UM),4%,1.0%,6%,15.0%,0.0%,2019
+COD,Democratic Republic of the Congo,Low income (L),1%,0.0%,2%,0.0%,3.0%,2017-18
+DJI,Djibouti,Lower middle income (LM),6%,1.0%,11%,1.0%,32.0%,2012
+DOM,Dominican Republic,Upper middle income (UM),24%,100.0%,29%,0.0%,77.0%,2014
+EGY,Egypt,Lower middle income (LM),17%,9.0%,29%,100.0%,61.7%,2015
+GMB,Gambia,Low income (L),65%,47.0%,75%,25.0%,94.0%,2018
+GEO,Georgia,Upper middle income (UM),85%,72.0%,93%,51.0%,99.0%,2018
+GHA,Ghana,Lower middle income (LM),17%,10.0%,26%,3.0%,51.0%,2017-18
+GTM,Guatemala,Upper middle income (UM),9%,3.0%,18%,0.0%,45.0%,2014-15
+GNB,Guinea-Bissau,Low income (L),2%,2.0%,4%,0.0%,5.0%,2018-19
+HTI,Haiti,Low income (L),21%,11.0%,36%,0.0%,65.0%,2016-17
+IND,India,Lower middle income (LM),9%,5.0%,17%,0.0%,36.0%,2015-16
+IDN,Indonesia,Lower middle income (LM),19%,10.0%,26%,6.0%,45.0%,2019
+IRQ,Iraq,Upper middle income (UM),49%,35.0%,56%,14.0%,84.0%,2018
+JPN,Japan,High income (H),78%,83.0%,77%,62.0%,87.0%,2018
+JOR,Jordan,Upper middle income (UM),38%,35.0%,38%,23.0%,72.0%,2017-18
+KEN,Kenya,Lower middle income (LM),32%,27.9%,24%,19.0%,61.7%,2013
+KIR,Kiribati,Lower middle income (LM),51%,33.0%,69%,14.0%,87.0%,2018-19
+KGZ,Kyrgyzstan,Lower middle income (LM),74%,69.0%,83%,54.0%,91.0%,2018
+LAO,Lao People's Democratic Republic,Lower middle income (LM),2%,1.0%,4%,0.0%,5.0%,2017
+LSO,Lesotho,Lower middle income (LM),32%,22.0%,52%,6.0%,70.0%,2018
+MDG,Madagascar,Low income (L),11%,6.0%,27%,0.0%,47.0%,2018
+MDV,Maldives,Upper middle income (UM),70%,69.0%,72%,50.0%,93.0%,2016-17
+MLI,Mali,Low income (L),5%,3.0%,14%,0.0%,23.0%,2015
+MRT,Mauritania,Lower middle income (LM),3%,1.0%,6%,0.0%,11.0%,2015
+MEX,Mexico,Upper middle income (UM),41%,11.0%,52%,19.0%,61.7%,2018
+MNG,Mongolia,Lower middle income (LM),37%,13.0%,49%,2.0%,93.0%,2018
+MNE,Montenegro,Upper middle income (UM),82%,74.0%,86%,49.0%,99.0%,2018-19
+MAR,Morocco,Lower middle income (LM),18%,12.0%,23%,19.0%,61.7%,2010
+NAM,Namibia,Upper middle income (UM),7%,1.0%,15%,0.0%,34.0%,2013
+PAK,Pakistan,Lower middle income (LM),9%,4.0%,19%,0.0%,46.0%,2017
+PAN,Panama,High income (H),31%,10.0%,44%,4.0%,94.0%,2013
+RUS,Russian Federation,Upper middle income (UM),89%,79.0%,94%,89.0%,100.0%,2018
+LCA,Saint Lucia,Upper middle income (UM),48%,48.0%,44%,12.0%,61.7%,2012
+STP,Sao Tome and Principe,Lower middle income (LM),44%,37.0%,48%,20.0%,75.0%,2019
+SEN,Senegal,Lower middle income (LM),5%,2.0%,10%,1.0%,21.0%,2017
+SRB,Serbia,Upper middle income (UM),94%,91.0%,97%,71.0%,100.0%,2019
+SLE,Sierra Leone,Low income (L),13%,4.0%,25%,0.0%,39.0%,2017
+SSD,South Sudan,Low income (L),0%,0.0%,1%,0.0%,2.0%,2010
+LKA,Sri Lanka,Upper middle income (UM),70%,67.0%,86%,71.0%,99.0%,2012
+SDN,Sudan,Lower middle income (LM),3%,1.0%,9%,0.0%,18.0%,2014
+SUR,Suriname,Upper middle income (UM),50%,37.0%,57%,22.0%,93.0%,2018
+TJK,Tajikistan,Low income (L),24%,20.0%,38%,6.0%,46.0%,2017
+MKD,North Macedonia,Upper middle income (UM),92%,90.0%,93%,70.0%,100.0%,2018-19
+TGO,Togo,Low income (L),23%,7.0%,49%,0.0%,78.0%,2017
+TON,Tonga,Upper middle income (UM),91%,90.0%,94%,83.0%,95.0%,2019
+TTO,Trinidad and Tobago,High income (H),44%,34.0%,52%,3.0%,96.0%,2011
+TUN,Tunisia,Lower middle income (LM),39%,22.0%,47%,13.0%,83.0%,2018
+TUR,Turkey,Upper middle income (UM),36%,14.0%,43%,2.0%,90.0%,2013
+TKM,Turkmenistan,Upper middle income (UM),46%,37.0%,58%,32.0%,77.0%,2019
+UGA,Uganda,Low income (L),0%,0.0%,2%,0.0%,2.0%,2015
+UKR,Ukraine,Lower middle income (LM),71%,27.9%,71%,19.0%,61.7%,2013
+UZB,Uzbekistan,Lower middle income (LM),19%,16.0%,29%,1.0%,69.0%,2017
+ZMB,Zambia,Lower middle income (LM),6%,2.0%,13%,0.0%,28.0%,2018-19
+ZWE,Zimbabwe,Lower middle income (LM),26%,18.0%,49%,4.0%,62.0%,2018-19
